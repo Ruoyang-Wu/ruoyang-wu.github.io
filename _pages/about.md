@@ -54,8 +54,8 @@ Paper: *Distilling the Essence: Physical Prior-Guided MoE and Information Bottle
 
 ## Honors and Awards
 
-- China National Scholarship, 2024, 2025
-- Outstanding Student & First-Class Scholarship, NWPU, 2024, 2025
+- China National Scholarship -- 2024, 2025
+- Outstanding Student & First-Class Scholarship, NWPU -- 2024, 2025
 - Annual Academic Excellence Individual
 
 ---

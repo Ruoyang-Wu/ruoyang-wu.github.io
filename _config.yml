@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Ruoyang Wu"
   pronouns         : # example: "she/her"
-  bio              : "B.S. student in Computer Science at NWPU. Research interests: Multimodal LLM, Computer Vision, Embodied AI."
+  bio              : "B.S. student in Computer Science at NWPU."
   location         : "Xi'an, China"
   employer         : "Northwestern Polytechnical University"
   uri              : # URL
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
