@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a third-year undergraduate majoring in Computer Science and Technology at Northwestern Polytechnical University (NWPU), Xi'an, China, advised by Prof. Jiaqi Yang. 
 
-I am a sophomore in Computer Science at Northwestern Polytechnical University (NWPU), Xi'an, China, advised by Prof. Jiaqi Yang. My research interests lie in **Multimodal Large Language Models**, **Computer Vision**, and **Embodied AI**. I am passionate about building intelligent systems that perceive and interact with the physical world.
-
----
+My current research interest lies in developing language-grounded agents that interact with digital and physical environments to carry out real-world tasks, with a focus on Multimodal Large Language Models and Embodied AI.
 
 ## Education
 
@@ -57,11 +56,3 @@ Paper: *Distilling the Essence: Physical Prior-Guided MoE and Information Bottle
 - China National Scholarship -- 2024, 2025
 - Outstanding Student & First-Class Scholarship, NWPU -- 2024, 2025
 - Annual Academic Excellence Individual
-
----
-
-## Research Interests
-
-- Multimodal Large Language Model
-- Computer Vision
-- Embodied AI
