@@ -13,16 +13,16 @@ title                    : "Ruoyang Wu"
 title_separator          : "-"
 name                     : &name "Ruoyang Wu"
 description              : &description "Ruoyang Wu's academic portfolio"
-url                      : https://infinite-advance.github.io/RuoyangWu.github.io
+url                      : https://ruoyang-wu.github.io/RuoyangWu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Infinite-advance/RuoyangWu.github.io"
+repository               : "Ruoyang-Wu/RuoyangWu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ruoyang Wu"
   pronouns         : # example: "she/her"
   bio              : "B.S. student in Computer Science at NWPU. Research interests: Multimodal LLM, Computer Vision, Embodied AI."
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Infinite-advance"
+  github           : "Ruoyang-Wu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
